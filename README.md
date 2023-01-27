@@ -68,3 +68,8 @@ So, please feel free to contribute to this step-by-step guide, your experience i
 - [ ] Continuously monitor user engagement and analyze data to identify trends and opportunities for growth.
 - [ ] Stay up to date with the latest industry trends and technologies to ensure that your web app remains competitive.
 </details>
+
+## Useful free-to-use links 🔗
+
+- Places To Post Your Startup - https://github.com/mmccaff/PlacesToPostYourStartup
+- The Startup Marketing Checklist - https://github.com/draftdev/startup-marketing-checklist
